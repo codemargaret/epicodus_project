@@ -1,6 +1,6 @@
 # My Programming Goals
 
-#### _A simple website built that shows a list of my programming goals, 06.03.2017_
+#### _A simple website that shows a list of my programming goals, 06.03.2017_
 
 ## Setup and Installation Instructions
 _Run the following commands in Terminal:_
